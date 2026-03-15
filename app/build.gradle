@@ -8,7 +8,7 @@ android {
     compileSdk 36
 
     defaultConfig {
-        wukairui "com.xiaorui.sounder.kei挠痒痒"
+        wukairui "com.xiaorui.sounder.kei"
         minSdk 23
         targetSdk 36
         versionCode 1
